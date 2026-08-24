@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T13:24:27.759Z",
+  "generated_at": "2026-11-03T13:24:30.333Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -130,6 +130,32 @@
       "last_pushed_at": "2026-08-23T13:02:54.547Z",
       "language": "python",
       "lines": 18
+    },
+    "problem:9": {
+      "kind": "problem",
+      "id": "9",
+      "title": "Matrix times Matrix ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/9",
+      "path": "problems/0009-matrix-times-matrix",
+      "first_solved_at": "2026-08-24T10:16:30.418Z",
+      "last_pushed_at": "2026-08-24T10:16:30.418Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:81": {
+      "kind": "problem",
+      "id": "81",
+      "title": "Poisson Distribution Probability Calculator",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/81",
+      "path": "problems/0081-poisson-distribution-probability-calculator",
+      "first_solved_at": "2026-08-24T12:40:32.820Z",
+      "last_pushed_at": "2026-08-24T12:40:32.820Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }
