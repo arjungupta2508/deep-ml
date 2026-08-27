@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T13:24:30.333Z",
+  "generated_at": "2026-11-03T13:24:32.493Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -156,6 +156,32 @@
       "last_pushed_at": "2026-08-24T12:40:32.820Z",
       "language": "python",
       "lines": 20
+    },
+    "problem:79": {
+      "kind": "problem",
+      "id": "79",
+      "title": "Binomial Distribution Probability",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/79",
+      "path": "problems/0079-binomial-distribution-probability",
+      "first_solved_at": "2026-08-27T12:36:36.678Z",
+      "last_pushed_at": "2026-08-27T12:36:36.678Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:80": {
+      "kind": "problem",
+      "id": "80",
+      "title": "Normal Distribution PDF Calculator",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/80",
+      "path": "problems/0080-normal-distribution-pdf-calculator",
+      "first_solved_at": "2026-08-27T13:16:19.832Z",
+      "last_pushed_at": "2026-08-27T13:16:19.832Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
